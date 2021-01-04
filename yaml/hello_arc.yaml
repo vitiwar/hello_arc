@@ -33,4 +33,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: This is an Azure Arc GitOps Demo! To kickstart new gitops slow.
+          value: This is an Azure Arc GitOps Demo! To kickstart new gitops flow. Lets roll.
