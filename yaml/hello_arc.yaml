@@ -33,4 +33,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: This is me running azure arc.
+          value: This is me running azure arc with policies.
